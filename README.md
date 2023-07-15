@@ -3,7 +3,7 @@
 Complete the tasks in the Python Notebook in this repository.
 To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
 
-# About The Assignment
+## About The Assignment
 
 Perform the following tasks:
 
@@ -16,13 +16,13 @@ All of these tasks require your plots to have an appropriate title and labeled a
 
 Do not use other external modules except `matplotlib` and `pyplot` (e.g. `math`, etc) for this assignment unless you are explicitly instructed to, though you may use built in python functions (`min`, `max`, etc) as you wish.
 
-# Getting Started
+## Getting Started
 
     1. Copy the base repository into your GitHub account by selecting the "Use this Template" button on GitHub and specifying yourself as the owner.  The base repository is available at: https://github.com/wmnlp-materials/pyplot/blob/master/pyplot.ipynbLinks to an external site.
 
     2. Clone YOUR new repo down to your machine.
 
-# Rubric
+## Rubric
 
 Each question is worth two points:
 
@@ -31,15 +31,12 @@ Each question is worth two points:
 
 ## Built With
 
-### Python
+-Python
+-matplotlib.pyplt
+-numpy
+-random
 
-### matplotlib.pyplt
+## Contact
 
-### numpy
-
-### random
-
-# Contact
-
-Name: Desiree Jones
-Project Link: https://github.com/DesireeEDU/A3-Matplotlib-and-pyplot/blob/master/pyplot.ipynb
+-Name: Desiree Jones
+-Project Link: https://github.com/DesireeEDU/A3-Matplotlib-and-pyplot/blob/master/pyplot.ipynb
