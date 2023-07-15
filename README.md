@@ -31,12 +31,12 @@ Each question is worth two points:
 
 ## Built With
 
--Python
--matplotlib.pyplt
--numpy
--random
+- Python
+- matplotlib.pyplt
+- numpy
+- random
 
 ## Contact
 
--Name: Desiree Jones
--Project Link: https://github.com/DesireeEDU/A3-Matplotlib-and-pyplot/blob/master/pyplot.ipynb
+- Name: Desiree Jones
+- Project Link: https://github.com/DesireeEDU/A3-Matplotlib-and-pyplot/blob/master/pyplot.ipynb
